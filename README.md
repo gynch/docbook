@@ -1,6 +1,7 @@
 # Recetas Docbook
 
 Este repositorio trata de facilitar la generación de documentación en Docbook. 
+
 ## Qué es Docbook
 
 A grandes rasgos Docbook es un lenguaje basado en XML desarrollado para generar documentación. 
