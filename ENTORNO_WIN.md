@@ -2665,3 +2665,5 @@ Estos snippets provienen prácticamente en su totalidad del  [repositorio de pbo
 	    """
 ```
 ## Herramientas de conversión
+
+Para convertir Docbook a otros lenguajes de marcas basta con utilizar las hojas de estilo xslt correspondientes. Sin embargo, para generar documentación en otros formatos como PDF se requieren algunas herramientas más
