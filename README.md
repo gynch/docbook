@@ -19,6 +19,10 @@ El objetivo final es generar documentación sin tener que definir en ningún mom
 1. Aunque se usa mucho todavía (O'Reilly la usaba para publicar sus libros, FreeBSD, KDE, GNOME desktop documentation, the GTK+ API references, the Linux kernel documentation, The Linux Documentation Project...) es difícil encontrar información para un usuario medio
 2. Hay que trabajarse los entornos para que sea cómodo trabajar. Una vez conseguido resulta más ágil que en muchos editores
 3. Cuando el objetivo es únicamente redactar un post, hay alternativas más sencillas como **Markdown**
+
+## Configuración del entorno
+- [Configuración del entorno en Windows](ENTORNO_WIN.md)
+- Configuración del entorno en Linux
 ```markdown
 Syntax highlighted code block
 
