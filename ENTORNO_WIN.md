@@ -1,5 +1,7 @@
-#Preparación del entorno para Windows
+# Preparación del entorno para Windows
+
 ## Configuración del editor ATOM
+
 En primer lugar configuraré el editor ATOM para trabajar cómodamente con documentos XML Docbook.
 
 Para ello he añadido los snippets siguientes a snippets.cson
