@@ -1,13 +1,24 @@
-## Welcome to GitHub Pages
+# Recetas Docbook
 
-You can use the [editor on GitHub](https://github.com/gynch/docbook/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Este repositorio trata de facilitar la generación de documentación en Docbook. 
+## Qué es Docbook
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+A grandes rasgos Docbook es un lenguaje basado en XML desarrollado para generar documentación. 
 
-### Markdown
+El objetivo final es generar documentación sin tener que definir en ningún momento el estilo que se le va a aplicar, de este modo se separa claramente el diseño del contenido
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Ventajas de Docbook
+1. Los documento son texto plano, son perfectos para gestionar con un control de versiones
+2. Los recursos necesarios para generar documentación son mínimos. Sólo se requiere un editor sencillo
+3. Los resultados son muy profesionales
+4. El lenguaje no tiene miles de palabras clave con lo que la curva de aprendizaje es rápida
+5. Permite convertir a cualquier formato: DOC, PDF, TXT, EPUB...
+6. Es un estándar
 
+### Inconvenientes de Docbook
+1. Aunque se usa mucho todavía (O'Reilly la usaba para publicar sus libros, FreeBSD, KDE, GNOME desktop documentation, the GTK+ API references, the Linux kernel documentation, The Linux Documentation Project...) es difícil encontrar información para un usuario medio
+2. Hay que trabajarse los entornos para que sea cómodo trabajar. Una vez conseguido resulta más ágil que en muchos editores
+3. Cuando el objetivo es únicamente redactar un post, hay alternativas más sencillas como **Markdown**
 ```markdown
 Syntax highlighted code block
 
